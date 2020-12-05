@@ -11,7 +11,9 @@ import SwiftUI
 struct HCIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            //ContentView()
+            HomeView()
+                .environmentObject(UserData())
         }
     }
 }

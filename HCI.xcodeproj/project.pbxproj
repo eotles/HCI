@@ -15,6 +15,44 @@
 		68B563C3256DAFD500D6CA67 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B56398256DAFD300D6CA67 /* ContentView.swift */; };
 		68B563C4256DAFD500D6CA67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68B56399256DAFD500D6CA67 /* Assets.xcassets */; };
 		68B563C5256DAFD500D6CA67 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 68B56399256DAFD500D6CA67 /* Assets.xcassets */; };
+		68B563D9256DBBFB00D6CA67 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B563D8256DBBFB00D6CA67 /* HomeView.swift */; };
+		68B563DA256DBBFB00D6CA67 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68B563D8256DBBFB00D6CA67 /* HomeView.swift */; };
+		68ED352E2572A0CD00365FE8 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED352D2572A0CD00365FE8 /* Data.swift */; };
+		68ED352F2572A0CD00365FE8 /* Data.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED352D2572A0CD00365FE8 /* Data.swift */; };
+		68ED35392572BBFF00365FE8 /* Patient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35382572BBFF00365FE8 /* Patient.swift */; };
+		68ED353A2572BBFF00365FE8 /* Patient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35382572BBFF00365FE8 /* Patient.swift */; };
+		68ED35402572BD0700365FE8 /* patientData.json in Resources */ = {isa = PBXBuildFile; fileRef = 68ED353F2572BD0700365FE8 /* patientData.json */; };
+		68ED35412572BD0700365FE8 /* patientData.json in Resources */ = {isa = PBXBuildFile; fileRef = 68ED353F2572BD0700365FE8 /* patientData.json */; };
+		68ED35472572BDBC00365FE8 /* clare_crawley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED35462572BDBC00365FE8 /* clare_crawley.jpg */; };
+		68ED35482572BDBC00365FE8 /* clare_crawley.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED35462572BDBC00365FE8 /* clare_crawley.jpg */; };
+		68ED35502572C86200365FE8 /* mike_johnson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED354D2572C86100365FE8 /* mike_johnson.jpg */; };
+		68ED35512572C86200365FE8 /* mike_johnson.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED354D2572C86100365FE8 /* mike_johnson.jpg */; };
+		68ED35522572C86200365FE8 /* tayshia_brown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED354E2572C86100365FE8 /* tayshia_brown.jpg */; };
+		68ED35532572C86200365FE8 /* tayshia_brown.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED354E2572C86100365FE8 /* tayshia_brown.jpg */; };
+		68ED35542572C86200365FE8 /* hannah_adams.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED354F2572C86200365FE8 /* hannah_adams.jpg */; };
+		68ED35552572C86200365FE8 /* hannah_adams.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 68ED354F2572C86200365FE8 /* hannah_adams.jpg */; };
+		68ED35662572C94F00365FE8 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35652572C94F00365FE8 /* UserData.swift */; };
+		68ED35672572C94F00365FE8 /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35652572C94F00365FE8 /* UserData.swift */; };
+		68ED35712572CC8000365FE8 /* PatientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35702572CC8000365FE8 /* PatientView.swift */; };
+		68ED35722572CC8000365FE8 /* PatientView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35702572CC8000365FE8 /* PatientView.swift */; };
+		68ED35782572D8C600365FE8 /* NoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35772572D8C600365FE8 /* NoteView.swift */; };
+		68ED35792572D8C600365FE8 /* NoteView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35772572D8C600365FE8 /* NoteView.swift */; };
+		68ED358A2573129800365FE8 /* noteData.json in Resources */ = {isa = PBXBuildFile; fileRef = 68ED35892573129800365FE8 /* noteData.json */; };
+		68ED358B2573129800365FE8 /* noteData.json in Resources */ = {isa = PBXBuildFile; fileRef = 68ED35892573129800365FE8 /* noteData.json */; };
+		68ED3591257313BB00365FE8 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED3590257313BB00365FE8 /* Note.swift */; };
+		68ED3592257313BB00365FE8 /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED3590257313BB00365FE8 /* Note.swift */; };
+		68ED35982573230600365FE8 /* NoteListDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35972573230600365FE8 /* NoteListDetailView.swift */; };
+		68ED35992573230600365FE8 /* NoteListDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35972573230600365FE8 /* NoteListDetailView.swift */; };
+		68ED359F2573EB3300365FE8 /* NoteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED359E2573EB3300365FE8 /* NoteDetailView.swift */; };
+		68ED35A02573EB3300365FE8 /* NoteDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED359E2573EB3300365FE8 /* NoteDetailView.swift */; };
+		68ED35AA257423F600365FE8 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35A9257423F600365FE8 /* SearchBarView.swift */; };
+		68ED35AB257423F600365FE8 /* SearchBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35A9257423F600365FE8 /* SearchBarView.swift */; };
+		68ED35B125745CB300365FE8 /* NoteAddTemplateModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35B025745CB300365FE8 /* NoteAddTemplateModalView.swift */; };
+		68ED35B225745CB300365FE8 /* NoteAddTemplateModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35B025745CB300365FE8 /* NoteAddTemplateModalView.swift */; };
+		68ED35D62574867400365FE8 /* Transcription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35D52574867400365FE8 /* Transcription.swift */; };
+		68ED35D72574867400365FE8 /* Transcription.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35D52574867400365FE8 /* Transcription.swift */; };
+		68ED35E125749F6200365FE8 /* NoteVersionHistoryModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35E025749F6200365FE8 /* NoteVersionHistoryModalView.swift */; };
+		68ED35E225749F6200365FE8 /* NoteVersionHistoryModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68ED35E025749F6200365FE8 /* NoteVersionHistoryModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +87,25 @@
 		68B563B9256DAFD500D6CA67 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		68B563BD256DAFD500D6CA67 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		68B563BF256DAFD500D6CA67 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68B563D8256DBBFB00D6CA67 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
+		68ED352D2572A0CD00365FE8 /* Data.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Data.swift; sourceTree = "<group>"; };
+		68ED35382572BBFF00365FE8 /* Patient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Patient.swift; sourceTree = "<group>"; };
+		68ED353F2572BD0700365FE8 /* patientData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = patientData.json; sourceTree = "<group>"; };
+		68ED35462572BDBC00365FE8 /* clare_crawley.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = clare_crawley.jpg; sourceTree = "<group>"; };
+		68ED354D2572C86100365FE8 /* mike_johnson.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mike_johnson.jpg; sourceTree = "<group>"; };
+		68ED354E2572C86100365FE8 /* tayshia_brown.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = tayshia_brown.jpg; sourceTree = "<group>"; };
+		68ED354F2572C86200365FE8 /* hannah_adams.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = hannah_adams.jpg; sourceTree = "<group>"; };
+		68ED35652572C94F00365FE8 /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
+		68ED35702572CC8000365FE8 /* PatientView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PatientView.swift; sourceTree = "<group>"; };
+		68ED35772572D8C600365FE8 /* NoteView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteView.swift; sourceTree = "<group>"; };
+		68ED35892573129800365FE8 /* noteData.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = noteData.json; sourceTree = "<group>"; };
+		68ED3590257313BB00365FE8 /* Note.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		68ED35972573230600365FE8 /* NoteListDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteListDetailView.swift; sourceTree = "<group>"; };
+		68ED359E2573EB3300365FE8 /* NoteDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteDetailView.swift; sourceTree = "<group>"; };
+		68ED35A9257423F600365FE8 /* SearchBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchBarView.swift; sourceTree = "<group>"; };
+		68ED35B025745CB300365FE8 /* NoteAddTemplateModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteAddTemplateModalView.swift; sourceTree = "<group>"; };
+		68ED35D52574867400365FE8 /* Transcription.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transcription.swift; sourceTree = "<group>"; };
+		68ED35E025749F6200365FE8 /* NoteVersionHistoryModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NoteVersionHistoryModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,8 +155,19 @@
 		68B56396256DAFD300D6CA67 /* Shared */ = {
 			isa = PBXGroup;
 			children = (
+				68ED352C2572A08E00365FE8 /* Models */,
+				68ED352B2572A08400365FE8 /* Resources */,
 				68B56397256DAFD300D6CA67 /* HCIApp.swift */,
 				68B56398256DAFD300D6CA67 /* ContentView.swift */,
+				68B563D8256DBBFB00D6CA67 /* HomeView.swift */,
+				68ED35A9257423F600365FE8 /* SearchBarView.swift */,
+				68ED35702572CC8000365FE8 /* PatientView.swift */,
+				68ED35772572D8C600365FE8 /* NoteView.swift */,
+				68ED359E2573EB3300365FE8 /* NoteDetailView.swift */,
+				68ED35B025745CB300365FE8 /* NoteAddTemplateModalView.swift */,
+				68ED35E025749F6200365FE8 /* NoteVersionHistoryModalView.swift */,
+				68ED35972573230600365FE8 /* NoteListDetailView.swift */,
+				68ED35D52574867400365FE8 /* Transcription.swift */,
 				68B56399256DAFD500D6CA67 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -149,6 +217,30 @@
 				68B563BF256DAFD500D6CA67 /* Info.plist */,
 			);
 			path = "Tests macOS";
+			sourceTree = "<group>";
+		};
+		68ED352B2572A08400365FE8 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				68ED353F2572BD0700365FE8 /* patientData.json */,
+				68ED35892573129800365FE8 /* noteData.json */,
+				68ED35462572BDBC00365FE8 /* clare_crawley.jpg */,
+				68ED354F2572C86200365FE8 /* hannah_adams.jpg */,
+				68ED354D2572C86100365FE8 /* mike_johnson.jpg */,
+				68ED354E2572C86100365FE8 /* tayshia_brown.jpg */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
+		68ED352C2572A08E00365FE8 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				68ED352D2572A0CD00365FE8 /* Data.swift */,
+				68ED35382572BBFF00365FE8 /* Patient.swift */,
+				68ED3590257313BB00365FE8 /* Note.swift */,
+				68ED35652572C94F00365FE8 /* UserData.swift */,
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -275,7 +367,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68ED35542572C86200365FE8 /* hannah_adams.jpg in Resources */,
+				68ED358A2573129800365FE8 /* noteData.json in Resources */,
 				68B563C4256DAFD500D6CA67 /* Assets.xcassets in Resources */,
+				68ED35472572BDBC00365FE8 /* clare_crawley.jpg in Resources */,
+				68ED35402572BD0700365FE8 /* patientData.json in Resources */,
+				68ED35502572C86200365FE8 /* mike_johnson.jpg in Resources */,
+				68ED35522572C86200365FE8 /* tayshia_brown.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +381,13 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68ED35552572C86200365FE8 /* hannah_adams.jpg in Resources */,
+				68ED358B2573129800365FE8 /* noteData.json in Resources */,
 				68B563C5256DAFD500D6CA67 /* Assets.xcassets in Resources */,
+				68ED35482572BDBC00365FE8 /* clare_crawley.jpg in Resources */,
+				68ED35412572BD0700365FE8 /* patientData.json in Resources */,
+				68ED35512572C86200365FE8 /* mike_johnson.jpg in Resources */,
+				68ED35532572C86200365FE8 /* tayshia_brown.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -308,8 +412,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68ED35E125749F6200365FE8 /* NoteVersionHistoryModalView.swift in Sources */,
+				68ED35662572C94F00365FE8 /* UserData.swift in Sources */,
+				68B563D9256DBBFB00D6CA67 /* HomeView.swift in Sources */,
+				68ED35982573230600365FE8 /* NoteListDetailView.swift in Sources */,
+				68ED35782572D8C600365FE8 /* NoteView.swift in Sources */,
+				68ED35AA257423F600365FE8 /* SearchBarView.swift in Sources */,
 				68B563C2256DAFD500D6CA67 /* ContentView.swift in Sources */,
 				68B563C0256DAFD500D6CA67 /* HCIApp.swift in Sources */,
+				68ED3591257313BB00365FE8 /* Note.swift in Sources */,
+				68ED35B125745CB300365FE8 /* NoteAddTemplateModalView.swift in Sources */,
+				68ED359F2573EB3300365FE8 /* NoteDetailView.swift in Sources */,
+				68ED352E2572A0CD00365FE8 /* Data.swift in Sources */,
+				68ED35392572BBFF00365FE8 /* Patient.swift in Sources */,
+				68ED35D62574867400365FE8 /* Transcription.swift in Sources */,
+				68ED35712572CC8000365FE8 /* PatientView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -317,8 +434,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68ED35E225749F6200365FE8 /* NoteVersionHistoryModalView.swift in Sources */,
+				68ED35672572C94F00365FE8 /* UserData.swift in Sources */,
+				68B563DA256DBBFB00D6CA67 /* HomeView.swift in Sources */,
+				68ED35992573230600365FE8 /* NoteListDetailView.swift in Sources */,
+				68ED35792572D8C600365FE8 /* NoteView.swift in Sources */,
+				68ED35AB257423F600365FE8 /* SearchBarView.swift in Sources */,
 				68B563C3256DAFD500D6CA67 /* ContentView.swift in Sources */,
 				68B563C1256DAFD500D6CA67 /* HCIApp.swift in Sources */,
+				68ED3592257313BB00365FE8 /* Note.swift in Sources */,
+				68ED35B225745CB300365FE8 /* NoteAddTemplateModalView.swift in Sources */,
+				68ED35A02573EB3300365FE8 /* NoteDetailView.swift in Sources */,
+				68ED352F2572A0CD00365FE8 /* Data.swift in Sources */,
+				68ED353A2572BBFF00365FE8 /* Patient.swift in Sources */,
+				68ED35D72574867400365FE8 /* Transcription.swift in Sources */,
+				68ED35722572CC8000365FE8 /* PatientView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

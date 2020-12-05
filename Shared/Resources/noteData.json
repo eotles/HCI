@@ -1,0 +1,44 @@
+[
+    {
+        "id": 0,
+        "pt_id": 1000000000,
+        "date": 600000000,
+        "author": "E. Otles, MD",
+        "text": "Patient appears comfortable, both sitting and lying down. Work of breathing, respiratory rate & rhythm appear normal, no noticeable coughs, wheezing, or shortness of breath. He is alert and talking normally.\n\nAbdomen contour flat and symmetric, no distention appreciated. No abdominal wall venous distentions noted, skin absent of lesions, discolorations, and striae.\n\nAuscultations of the four abdominal quadrants revealed normal active bowel sounds, not excessively frequent or loud, characterized as a gentle bubbling. No bruits noted in the abdominal aorta, or renal arteries.\n\nUpon percussion of the abdomen normal resonance (tympanic) was found over the bowels. The supra pubic area did not have a notable difference in resonance. Liver size ~7cm. Spleen was not percuss-able.\n\nNo tenderness, masses, pulsation, loops or movement noted in the palpation of the LUQ, RUQ, RLQ, LLQ, epigastric, or supra-pubic areas. Liver was palpated just below the right costal margin lateral to the mid-axillary line. Spleen was not palpable. Aorta pulsation was barely perceptible upon deep palpation. No lymph node enlargement or hernias were noted upon inguinal palpation.\n\nMurphy’s sign, McBurney's point, Rovsing’s sign, obturator or Psoas signs were all negative. No costal-vertebral tenderness noted.",
+        "isSigned": true
+    },
+    {
+        "id": 1,
+        "pt_id": 1000000001,
+        "date": 600100000,
+        "author": "B. Bunny, MD",
+        "text": "HPI: An otherwise healthy 62 year old Caucasian patient presents to the Urgent Care with a 2 day history of abdominal pain.  Patient was in their usual state of health when they noticed upper abdominal pain that started as a dull burning.  Since this began, they've had fatigue with malaise.  They've noted low grade fevers and chills although they have not taken a temperature at all. Their abdominal pain has been intermittent to a maximum of 8/10.  Nothing has made this better or worse.  Their appetite has been slightly diminished, “I’m not that hungry”, but they've denied nausea or vomiting.  They have tried Ibuprofen which doesn’t appear to affect the pain.\nPatient had gone to his PCP office the day before.  Labs were sent, and was found to have a total bilirubin of 5.6 (direct 4.2), alk phos of 412, ALT 68, and AST 50.",
+        "isSigned": true
+    },
+    {
+        "id": 2,
+        "pt_id": 1000000002,
+        "date": 601000000,
+        "author": "Q. Anon, MD",
+        "text": "CC: Establishing care\n\nHPI: Patient a 54 year old, with a medical history significant for DM2 and HTN, presents today with the goal of establishing care with a PCP.\n\nTheir diabetes was diagnosed 6y ago via routine blood screening. Initial treatments included diet & exercise (ineffective) and glyburide (caused hypoglycemia), however a routine regime of metformin was found to be effective within in the first couple months. They reported having it under good control, seeing physician every 6m, and having last HgbA1C at 6.9 (6m ago). Their HTN has been diagnosed for 3y.\n\nThey recently moved to here from there partner take care of things. Since moving they have had a lapse in care; they've also significantly changed their lifestyle and have been unable to fill prescriptions. Patient is seeking to establish care with a physician here and would like to have prescriptions for diabetes and hypertension renewed.\n\nPatient reported recent numbness in her feet - she did NOT report chest pain, chest tightness, palpitations, dyspnea on exertion, nocturnal dyspnea, orthopnea, edema, polyuria, polydipsia, and polyphagia.\n\nPast Medical History\n* DM2 (6y ago)\n* HTN (3y ago)\n* Cellulitis (r. foot, 3d hosp, 3y ago)\n\nPast Surgical Medical History\n* Fun resection\n\nPhysical Exam\nVitals\nTemp: 97.8\nHeart Rate: 85\nRespiratory Rate: 16\nBP: 155/98\nOxygen Saturation: 100",
+        "isSigned": true
+    },
+    {
+        "id": 3,
+        "pt_id": 1000000003,
+        "date": 610000000,
+        "author": "W. Osler, MD",
+        "text": "Subjective\n\nPatient is a 44 year old human presenting today for constant headache on going for the last week. It is described as a sharp strong pain over her right eye & temple. While the patient's had headaches before they've never been this bad. On onset the patient endorsed some visual changes; fuzziness of vision that subsided shortly (20m).\n\nThe pain is made worse by movement and being at work, patient's tried to alleviate the pain with Tylenol and Excedrin but they've been unhelpful. The headache has been relative constant in its course, but when it gets worse it is accompanied by the sensation of nausea.  Patient denies numbness, tingling, syncope, lightheadedness, dizziness, weakness.\n\nPMH\nHTN - controlled by lifestyle\n\nPSx\nNone\n\nMeds\nTylenol & Benadryl PRN\n\nAll\nCats - itchy, watery eyes\n\nFam Hx\nMother: healthy\nFather: Gastric Cancer survivor\n\nObjective\n\nVitals\nT: 36.5\nHR: 75\nRR: 16\nBP: 125/70\nO2: 97\n\nPhysical Exam\nGeneral\nPt appears comfortable, both sitting and lying down. Work of breathing and respiratory rate & rhythm appear normal. Is alert and talking normally.\n\nAssessment\nPatient is a 44 year old presenting today for an on-going R. Temporal headache (1 w). In addition, the patient reports accompanying visual changes and major work stress, their vitals and physical exam are unremarkable except for avoidance of light shown in eyes. Pt denies acute onset, relief with NSAIDs, soreness, any focal or general numbness, or weakness.\n\nTheir presentation is most consistent with a diagnosis of migraine headache. This is supported by the long duration, work pressures, and visual components. Other diagnoses include tension headache, giant cell arteritis, other more worrying diagnoses like mass, stroke, and meningitis must be considered, but are very unlikely. Tension headache is unlikely due to the duration of the headache, its unilaterally, and lack of radiation. Giant cell arteritis should be considered due to the location of the headache, however is extremely unlikely given the patient’s age. Mass & stroke are unlikely due to the due to the lack of focal findings. Meningitis is unlikely due to the lack of neck soreness, fever, and course of the headache.\n\nIt may be important to discuss lifestyle issues (work stress) and see how they may be impacting their headache.\n\nPlan\n\nLabs\nPreferably: none\nIf we want to rule out meningitis we could do a CBC\nCould do a CMP to see if she’s significantly dehydrated (unlikely)\n\nMeds\nTry Sumatriptan (50mg)\nCould try to Naproxen (500mg) as an adjunct\n\nStudies\nPreferably: none\nIf we are concerned about the mass, stroke, and meningitis we could do a CT followed by LP\n\nEducation\nTalk about work stress\nPotentially trial a symptom diary (tracking work-stress, food/fluid intake, menses)",
+        "isSigned": true
+    },
+    {
+        "id": 4,
+        "pt_id": 1000000000,
+        "date": 610000000,
+        "author": "A. Hamilton, MD",
+        "text": "CC: Abdominal pain\nHPI: onset ~1 week ago, dull aching pain in RUQ after meals, made worse with fatty foods, better with Tylenol\nPMH: lupus\nPSH: None\nMeds: Ativan",
+        "isSigned": true
+    }
+
+
+]
