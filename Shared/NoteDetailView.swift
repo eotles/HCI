@@ -114,5 +114,6 @@ struct NoteDetailView_Previews: PreviewProvider {
             NoteDetailView()
                 .environmentObject(userData)
         }
+.previewInterfaceOrientation(.landscapeLeft)
     }
 }

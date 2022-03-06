@@ -74,5 +74,6 @@ struct PatientView_Previews: PreviewProvider {
             PatientView(patient: userData.patients[0])
                 .environmentObject(userData)
         }
+.previewInterfaceOrientation(.portraitUpsideDown)
     }
 }

@@ -38,6 +38,7 @@ struct NoteView: View {
                     }
                 }
             }
+            .listStyle(.plain)
             .frame(minWidth: 25, idealWidth: 75, maxWidth: 150)
             
             Divider()
@@ -54,5 +55,6 @@ struct NoteView_Previews: PreviewProvider {
             NoteView()
                 .environmentObject(userData)
         }
+.previewInterfaceOrientation(.landscapeRight)
     }
 }

@@ -31,6 +31,7 @@ struct HomeView: View {
                         }
                     }
                 }
+                .listStyle(.plain)
                 
             }
             .navigationBarTitle("Home", displayMode: .large)
